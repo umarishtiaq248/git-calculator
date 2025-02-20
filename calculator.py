@@ -7,7 +7,10 @@ def subtract(a, b):
     return a - b
 
 def multiply(a, b):
-    """Multiply two numbers and return the result."""
+    """Multiply two numbers and return the result.
+    e.g: like in this function a multiply with b and
+    result is return
+    """
     return a * b
 
 if __name__ == "__main__":
